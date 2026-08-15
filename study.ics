@@ -1,0 +1,4968 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NSx Year Plan//Daily Five//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Neurosurgery — the daily five
+X-WR-TIMEZONE:Asia/Riyadh
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VTIMEZONE
+TZID:Asia/Riyadh
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:+03
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:nsx-w1d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260803T070000
+DTEND;TZID=Asia/Riyadh:20260803T072000
+SUMMARY:Daily five — Skull base & the foramina
+DESCRIPTION:Week 1\, day 1 — Skull base & the foramina. The osteology e
+ verything else hangs off. Learn it once\, properly.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w1d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260804T070000
+DTEND;TZID=Asia/Riyadh:20260804T072000
+SUMMARY:Daily five — Skull base & the foramina
+DESCRIPTION:Week 1\, day 2 — Skull base & the foramina. The osteology e
+ verything else hangs off. Learn it once\, properly.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w1d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260805T070000
+DTEND;TZID=Asia/Riyadh:20260805T072000
+SUMMARY:Daily five — Skull base & the foramina
+DESCRIPTION:Week 1\, day 3 — Skull base & the foramina. The osteology e
+ verything else hangs off. Learn it once\, properly.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w1d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260806T070000
+DTEND;TZID=Asia/Riyadh:20260806T072000
+SUMMARY:Daily five — Skull base & the foramina
+DESCRIPTION:Week 1\, day 4 — Skull base & the foramina. The osteology e
+ verything else hangs off. Learn it once\, properly.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w1d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260807T070000
+DTEND;TZID=Asia/Riyadh:20260807T072000
+SUMMARY:Daily five — Skull base & the foramina
+DESCRIPTION:Week 1\, day 5 — Skull base & the foramina. The osteology e
+ verything else hangs off. Learn it once\, properly.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w1d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260808T070000
+DTEND;TZID=Asia/Riyadh:20260808T072000
+SUMMARY:Daily five — Skull base & the foramina
+DESCRIPTION:Week 1\, day 6 — Skull base & the foramina. The osteology e
+ verything else hangs off. Learn it once\, properly.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w1d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260809T070000
+DTEND;TZID=Asia/Riyadh:20260809T072000
+SUMMARY:Daily five — Skull base & the foramina
+DESCRIPTION:Week 1\, day 7 — Skull base & the foramina. The osteology e
+ verything else hangs off. Learn it once\, properly.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w2d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260810T070000
+DTEND;TZID=Asia/Riyadh:20260810T072000
+SUMMARY:Daily five — Cranial nerves I–VI
+DESCRIPTION:Week 2\, day 1 — Cranial nerves I–VI. Olfaction\, vision\
+ , the ocular motor nerves and the trigeminal.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w2d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260811T070000
+DTEND;TZID=Asia/Riyadh:20260811T072000
+SUMMARY:Daily five — Cranial nerves I–VI
+DESCRIPTION:Week 2\, day 2 — Cranial nerves I–VI. Olfaction\, vision\
+ , the ocular motor nerves and the trigeminal.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w2d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260812T070000
+DTEND;TZID=Asia/Riyadh:20260812T072000
+SUMMARY:Daily five — Cranial nerves I–VI
+DESCRIPTION:Week 2\, day 3 — Cranial nerves I–VI. Olfaction\, vision\
+ , the ocular motor nerves and the trigeminal.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w2d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260813T070000
+DTEND;TZID=Asia/Riyadh:20260813T072000
+SUMMARY:Daily five — Cranial nerves I–VI
+DESCRIPTION:Week 2\, day 4 — Cranial nerves I–VI. Olfaction\, vision\
+ , the ocular motor nerves and the trigeminal.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w2d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260814T070000
+DTEND;TZID=Asia/Riyadh:20260814T072000
+SUMMARY:Daily five — Cranial nerves I–VI
+DESCRIPTION:Week 2\, day 5 — Cranial nerves I–VI. Olfaction\, vision\
+ , the ocular motor nerves and the trigeminal.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w2d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260815T070000
+DTEND;TZID=Asia/Riyadh:20260815T072000
+SUMMARY:Daily five — Cranial nerves I–VI
+DESCRIPTION:Week 2\, day 6 — Cranial nerves I–VI. Olfaction\, vision\
+ , the ocular motor nerves and the trigeminal.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w2d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260816T070000
+DTEND;TZID=Asia/Riyadh:20260816T072000
+SUMMARY:Daily five — Cranial nerves I–VI
+DESCRIPTION:Week 2\, day 7 — Cranial nerves I–VI. Olfaction\, vision\
+ , the ocular motor nerves and the trigeminal.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w3d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260817T070000
+DTEND;TZID=Asia/Riyadh:20260817T072000
+SUMMARY:Daily five — Cranial nerves VII–XII
+DESCRIPTION:Week 3\, day 1 — Cranial nerves VII–XII. Facial\, vestibu
+ locochlear and the lower cranial nerves.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w3d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260818T070000
+DTEND;TZID=Asia/Riyadh:20260818T072000
+SUMMARY:Daily five — Cranial nerves VII–XII
+DESCRIPTION:Week 3\, day 2 — Cranial nerves VII–XII. Facial\, vestibu
+ locochlear and the lower cranial nerves.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w3d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260819T070000
+DTEND;TZID=Asia/Riyadh:20260819T072000
+SUMMARY:Daily five — Cranial nerves VII–XII
+DESCRIPTION:Week 3\, day 3 — Cranial nerves VII–XII. Facial\, vestibu
+ locochlear and the lower cranial nerves.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w3d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260820T070000
+DTEND;TZID=Asia/Riyadh:20260820T072000
+SUMMARY:Daily five — Cranial nerves VII–XII
+DESCRIPTION:Week 3\, day 4 — Cranial nerves VII–XII. Facial\, vestibu
+ locochlear and the lower cranial nerves.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w3d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260821T070000
+DTEND;TZID=Asia/Riyadh:20260821T072000
+SUMMARY:Daily five — Cranial nerves VII–XII
+DESCRIPTION:Week 3\, day 5 — Cranial nerves VII–XII. Facial\, vestibu
+ locochlear and the lower cranial nerves.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w3d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260822T070000
+DTEND;TZID=Asia/Riyadh:20260822T072000
+SUMMARY:Daily five — Cranial nerves VII–XII
+DESCRIPTION:Week 3\, day 6 — Cranial nerves VII–XII. Facial\, vestibu
+ locochlear and the lower cranial nerves.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w3d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260823T070000
+DTEND;TZID=Asia/Riyadh:20260823T072000
+SUMMARY:Daily five — Cranial nerves VII–XII
+DESCRIPTION:Week 3\, day 7 — Cranial nerves VII–XII. Facial\, vestibu
+ locochlear and the lower cranial nerves.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w4d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260824T070000
+DTEND;TZID=Asia/Riyadh:20260824T072000
+SUMMARY:Daily five — Meninges\, CSF spaces & ventricles
+DESCRIPTION:Week 4\, day 1 — Meninges\, CSF spaces & ventricles. Dural 
+ reflections\, cisterns and the ventricular system.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w4d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260825T070000
+DTEND;TZID=Asia/Riyadh:20260825T072000
+SUMMARY:Daily five — Meninges\, CSF spaces & ventricles
+DESCRIPTION:Week 4\, day 2 — Meninges\, CSF spaces & ventricles. Dural 
+ reflections\, cisterns and the ventricular system.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w4d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260826T070000
+DTEND;TZID=Asia/Riyadh:20260826T072000
+SUMMARY:Daily five — Meninges\, CSF spaces & ventricles
+DESCRIPTION:Week 4\, day 3 — Meninges\, CSF spaces & ventricles. Dural 
+ reflections\, cisterns and the ventricular system.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w4d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260827T070000
+DTEND;TZID=Asia/Riyadh:20260827T072000
+SUMMARY:Daily five — Meninges\, CSF spaces & ventricles
+DESCRIPTION:Week 4\, day 4 — Meninges\, CSF spaces & ventricles. Dural 
+ reflections\, cisterns and the ventricular system.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w4d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260828T070000
+DTEND;TZID=Asia/Riyadh:20260828T072000
+SUMMARY:Daily five — Meninges\, CSF spaces & ventricles
+DESCRIPTION:Week 4\, day 5 — Meninges\, CSF spaces & ventricles. Dural 
+ reflections\, cisterns and the ventricular system.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w4d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260829T070000
+DTEND;TZID=Asia/Riyadh:20260829T072000
+SUMMARY:Daily five — Meninges\, CSF spaces & ventricles
+DESCRIPTION:Week 4\, day 6 — Meninges\, CSF spaces & ventricles. Dural 
+ reflections\, cisterns and the ventricular system.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w4d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260830T070000
+DTEND;TZID=Asia/Riyadh:20260830T072000
+SUMMARY:Daily five — Meninges\, CSF spaces & ventricles
+DESCRIPTION:Week 4\, day 7 — Meninges\, CSF spaces & ventricles. Dural 
+ reflections\, cisterns and the ventricular system.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w5d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260831T070000
+DTEND;TZID=Asia/Riyadh:20260831T072000
+SUMMARY:Daily five — Circle of Willis & anterior circulation
+DESCRIPTION:Week 5\, day 1 — Circle of Willis & anterior circulation. D
+ raw it from blank paper until it's automatic.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w5d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260901T070000
+DTEND;TZID=Asia/Riyadh:20260901T072000
+SUMMARY:Daily five — Circle of Willis & anterior circulation
+DESCRIPTION:Week 5\, day 2 — Circle of Willis & anterior circulation. D
+ raw it from blank paper until it's automatic.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w5d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260902T070000
+DTEND;TZID=Asia/Riyadh:20260902T072000
+SUMMARY:Daily five — Circle of Willis & anterior circulation
+DESCRIPTION:Week 5\, day 3 — Circle of Willis & anterior circulation. D
+ raw it from blank paper until it's automatic.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w5d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260903T070000
+DTEND;TZID=Asia/Riyadh:20260903T072000
+SUMMARY:Daily five — Circle of Willis & anterior circulation
+DESCRIPTION:Week 5\, day 4 — Circle of Willis & anterior circulation. D
+ raw it from blank paper until it's automatic.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w5d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260904T070000
+DTEND;TZID=Asia/Riyadh:20260904T072000
+SUMMARY:Daily five — Circle of Willis & anterior circulation
+DESCRIPTION:Week 5\, day 5 — Circle of Willis & anterior circulation. D
+ raw it from blank paper until it's automatic.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w5d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260905T070000
+DTEND;TZID=Asia/Riyadh:20260905T072000
+SUMMARY:Daily five — Circle of Willis & anterior circulation
+DESCRIPTION:Week 5\, day 6 — Circle of Willis & anterior circulation. D
+ raw it from blank paper until it's automatic.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w5d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260906T070000
+DTEND;TZID=Asia/Riyadh:20260906T072000
+SUMMARY:Daily five — Circle of Willis & anterior circulation
+DESCRIPTION:Week 5\, day 7 — Circle of Willis & anterior circulation. D
+ raw it from blank paper until it's automatic.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w6d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260907T070000
+DTEND;TZID=Asia/Riyadh:20260907T072000
+SUMMARY:Daily five — Arterial territories & stroke syndromes
+DESCRIPTION:Week 6\, day 1 — Arterial territories & stroke syndromes. A
+ CA\, MCA and PCA mapped onto axial slices.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w6d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260908T070000
+DTEND;TZID=Asia/Riyadh:20260908T072000
+SUMMARY:Daily five — Arterial territories & stroke syndromes
+DESCRIPTION:Week 6\, day 2 — Arterial territories & stroke syndromes. A
+ CA\, MCA and PCA mapped onto axial slices.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w6d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260909T070000
+DTEND;TZID=Asia/Riyadh:20260909T072000
+SUMMARY:Daily five — Arterial territories & stroke syndromes
+DESCRIPTION:Week 6\, day 3 — Arterial territories & stroke syndromes. A
+ CA\, MCA and PCA mapped onto axial slices.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w6d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260910T070000
+DTEND;TZID=Asia/Riyadh:20260910T072000
+SUMMARY:Daily five — Arterial territories & stroke syndromes
+DESCRIPTION:Week 6\, day 4 — Arterial territories & stroke syndromes. A
+ CA\, MCA and PCA mapped onto axial slices.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w6d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260911T070000
+DTEND;TZID=Asia/Riyadh:20260911T072000
+SUMMARY:Daily five — Arterial territories & stroke syndromes
+DESCRIPTION:Week 6\, day 5 — Arterial territories & stroke syndromes. A
+ CA\, MCA and PCA mapped onto axial slices.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w6d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260912T070000
+DTEND;TZID=Asia/Riyadh:20260912T072000
+SUMMARY:Daily five — Arterial territories & stroke syndromes
+DESCRIPTION:Week 6\, day 6 — Arterial territories & stroke syndromes. A
+ CA\, MCA and PCA mapped onto axial slices.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w6d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260913T070000
+DTEND;TZID=Asia/Riyadh:20260913T072000
+SUMMARY:Daily five — Arterial territories & stroke syndromes
+DESCRIPTION:Week 6\, day 7 — Arterial territories & stroke syndromes. A
+ CA\, MCA and PCA mapped onto axial slices.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w7d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260914T070000
+DTEND;TZID=Asia/Riyadh:20260914T072000
+SUMMARY:Daily five — Vertebrobasilar & brainstem syndromes
+DESCRIPTION:Week 7\, day 1 — Vertebrobasilar & brainstem syndromes. Pos
+ terior circulation and the crossed syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w7d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260915T070000
+DTEND;TZID=Asia/Riyadh:20260915T072000
+SUMMARY:Daily five — Vertebrobasilar & brainstem syndromes
+DESCRIPTION:Week 7\, day 2 — Vertebrobasilar & brainstem syndromes. Pos
+ terior circulation and the crossed syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w7d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260916T070000
+DTEND;TZID=Asia/Riyadh:20260916T072000
+SUMMARY:Daily five — Vertebrobasilar & brainstem syndromes
+DESCRIPTION:Week 7\, day 3 — Vertebrobasilar & brainstem syndromes. Pos
+ terior circulation and the crossed syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w7d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260917T070000
+DTEND;TZID=Asia/Riyadh:20260917T072000
+SUMMARY:Daily five — Vertebrobasilar & brainstem syndromes
+DESCRIPTION:Week 7\, day 4 — Vertebrobasilar & brainstem syndromes. Pos
+ terior circulation and the crossed syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w7d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260918T070000
+DTEND;TZID=Asia/Riyadh:20260918T072000
+SUMMARY:Daily five — Vertebrobasilar & brainstem syndromes
+DESCRIPTION:Week 7\, day 5 — Vertebrobasilar & brainstem syndromes. Pos
+ terior circulation and the crossed syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w7d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260919T070000
+DTEND;TZID=Asia/Riyadh:20260919T072000
+SUMMARY:Daily five — Vertebrobasilar & brainstem syndromes
+DESCRIPTION:Week 7\, day 6 — Vertebrobasilar & brainstem syndromes. Pos
+ terior circulation and the crossed syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w7d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260920T070000
+DTEND;TZID=Asia/Riyadh:20260920T072000
+SUMMARY:Daily five — Vertebrobasilar & brainstem syndromes
+DESCRIPTION:Week 7\, day 7 — Vertebrobasilar & brainstem syndromes. Pos
+ terior circulation and the crossed syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w8d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260921T070000
+DTEND;TZID=Asia/Riyadh:20260921T072000
+SUMMARY:Daily five — Dural sinuses & deep venous system
+DESCRIPTION:Week 8\, day 1 — Dural sinuses & deep venous system. The ha
+ lf of cerebrovascular anatomy students skip.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w8d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260922T070000
+DTEND;TZID=Asia/Riyadh:20260922T072000
+SUMMARY:Daily five — Dural sinuses & deep venous system
+DESCRIPTION:Week 8\, day 2 — Dural sinuses & deep venous system. The ha
+ lf of cerebrovascular anatomy students skip.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w8d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260923T070000
+DTEND;TZID=Asia/Riyadh:20260923T072000
+SUMMARY:Daily five — Dural sinuses & deep venous system
+DESCRIPTION:Week 8\, day 3 — Dural sinuses & deep venous system. The ha
+ lf of cerebrovascular anatomy students skip.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w8d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260924T070000
+DTEND;TZID=Asia/Riyadh:20260924T072000
+SUMMARY:Daily five — Dural sinuses & deep venous system
+DESCRIPTION:Week 8\, day 4 — Dural sinuses & deep venous system. The ha
+ lf of cerebrovascular anatomy students skip.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w8d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260925T070000
+DTEND;TZID=Asia/Riyadh:20260925T072000
+SUMMARY:Daily five — Dural sinuses & deep venous system
+DESCRIPTION:Week 8\, day 5 — Dural sinuses & deep venous system. The ha
+ lf of cerebrovascular anatomy students skip.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w8d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260926T070000
+DTEND;TZID=Asia/Riyadh:20260926T072000
+SUMMARY:Daily five — Dural sinuses & deep venous system
+DESCRIPTION:Week 8\, day 6 — Dural sinuses & deep venous system. The ha
+ lf of cerebrovascular anatomy students skip.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w8d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260927T070000
+DTEND;TZID=Asia/Riyadh:20260927T072000
+SUMMARY:Daily five — Dural sinuses & deep venous system
+DESCRIPTION:Week 8\, day 7 — Dural sinuses & deep venous system. The ha
+ lf of cerebrovascular anatomy students skip.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w9d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260928T070000
+DTEND;TZID=Asia/Riyadh:20260928T072000
+SUMMARY:Daily five — Spinal cord tracts & blood supply
+DESCRIPTION:Week 9\, day 1 — Spinal cord tracts & blood supply.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w9d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260929T070000
+DTEND;TZID=Asia/Riyadh:20260929T072000
+SUMMARY:Daily five — Spinal cord tracts & blood supply
+DESCRIPTION:Week 9\, day 2 — Spinal cord tracts & blood supply.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w9d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20260930T070000
+DTEND;TZID=Asia/Riyadh:20260930T072000
+SUMMARY:Daily five — Spinal cord tracts & blood supply
+DESCRIPTION:Week 9\, day 3 — Spinal cord tracts & blood supply.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w9d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261001T070000
+DTEND;TZID=Asia/Riyadh:20261001T072000
+SUMMARY:Daily five — Spinal cord tracts & blood supply
+DESCRIPTION:Week 9\, day 4 — Spinal cord tracts & blood supply.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w9d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261002T070000
+DTEND;TZID=Asia/Riyadh:20261002T072000
+SUMMARY:Daily five — Spinal cord tracts & blood supply
+DESCRIPTION:Week 9\, day 5 — Spinal cord tracts & blood supply.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w9d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261003T070000
+DTEND;TZID=Asia/Riyadh:20261003T072000
+SUMMARY:Daily five — Spinal cord tracts & blood supply
+DESCRIPTION:Week 9\, day 6 — Spinal cord tracts & blood supply.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w9d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261004T070000
+DTEND;TZID=Asia/Riyadh:20261004T072000
+SUMMARY:Daily five — Spinal cord tracts & blood supply
+DESCRIPTION:Week 9\, day 7 — Spinal cord tracts & blood supply.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w10d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261005T070000
+DTEND;TZID=Asia/Riyadh:20261005T072000
+SUMMARY:Daily five — Spinal cord syndromes
+DESCRIPTION:Week 10\, day 1 — Spinal cord syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w10d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261006T070000
+DTEND;TZID=Asia/Riyadh:20261006T072000
+SUMMARY:Daily five — Spinal cord syndromes
+DESCRIPTION:Week 10\, day 2 — Spinal cord syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w10d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261007T070000
+DTEND;TZID=Asia/Riyadh:20261007T072000
+SUMMARY:Daily five — Spinal cord syndromes
+DESCRIPTION:Week 10\, day 3 — Spinal cord syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w10d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261008T070000
+DTEND;TZID=Asia/Riyadh:20261008T072000
+SUMMARY:Daily five — Spinal cord syndromes
+DESCRIPTION:Week 10\, day 4 — Spinal cord syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w10d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261009T070000
+DTEND;TZID=Asia/Riyadh:20261009T072000
+SUMMARY:Daily five — Spinal cord syndromes
+DESCRIPTION:Week 10\, day 5 — Spinal cord syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w10d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261010T070000
+DTEND;TZID=Asia/Riyadh:20261010T072000
+SUMMARY:Daily five — Spinal cord syndromes
+DESCRIPTION:Week 10\, day 6 — Spinal cord syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w10d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261011T070000
+DTEND;TZID=Asia/Riyadh:20261011T072000
+SUMMARY:Daily five — Spinal cord syndromes
+DESCRIPTION:Week 10\, day 7 — Spinal cord syndromes.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w11d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261012T070000
+DTEND;TZID=Asia/Riyadh:20261012T072000
+SUMMARY:Daily five — Dermatomes\, myotomes & plexuses
+DESCRIPTION:Week 11\, day 1 — Dermatomes\, myotomes & plexuses.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w11d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261013T070000
+DTEND;TZID=Asia/Riyadh:20261013T072000
+SUMMARY:Daily five — Dermatomes\, myotomes & plexuses
+DESCRIPTION:Week 11\, day 2 — Dermatomes\, myotomes & plexuses.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w11d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261014T070000
+DTEND;TZID=Asia/Riyadh:20261014T072000
+SUMMARY:Daily five — Dermatomes\, myotomes & plexuses
+DESCRIPTION:Week 11\, day 3 — Dermatomes\, myotomes & plexuses.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w11d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261015T070000
+DTEND;TZID=Asia/Riyadh:20261015T072000
+SUMMARY:Daily five — Dermatomes\, myotomes & plexuses
+DESCRIPTION:Week 11\, day 4 — Dermatomes\, myotomes & plexuses.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w11d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261016T070000
+DTEND;TZID=Asia/Riyadh:20261016T072000
+SUMMARY:Daily five — Dermatomes\, myotomes & plexuses
+DESCRIPTION:Week 11\, day 5 — Dermatomes\, myotomes & plexuses.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w11d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261017T070000
+DTEND;TZID=Asia/Riyadh:20261017T072000
+SUMMARY:Daily five — Dermatomes\, myotomes & plexuses
+DESCRIPTION:Week 11\, day 6 — Dermatomes\, myotomes & plexuses.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w11d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261018T070000
+DTEND;TZID=Asia/Riyadh:20261018T072000
+SUMMARY:Daily five — Dermatomes\, myotomes & plexuses
+DESCRIPTION:Week 11\, day 7 — Dermatomes\, myotomes & plexuses.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w12d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261019T070000
+DTEND;TZID=Asia/Riyadh:20261019T072000
+SUMMARY:Daily five — The neurological examination I — cranial & motor
+DESCRIPTION:Week 12\, day 1 — The neurological examination I — crania
+ l & motor.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w12d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261020T070000
+DTEND;TZID=Asia/Riyadh:20261020T072000
+SUMMARY:Daily five — The neurological examination I — cranial & motor
+DESCRIPTION:Week 12\, day 2 — The neurological examination I — crania
+ l & motor.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w12d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261021T070000
+DTEND;TZID=Asia/Riyadh:20261021T072000
+SUMMARY:Daily five — The neurological examination I — cranial & motor
+DESCRIPTION:Week 12\, day 3 — The neurological examination I — crania
+ l & motor.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w12d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261022T070000
+DTEND;TZID=Asia/Riyadh:20261022T072000
+SUMMARY:Daily five — The neurological examination I — cranial & motor
+DESCRIPTION:Week 12\, day 4 — The neurological examination I — crania
+ l & motor.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w12d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261023T070000
+DTEND;TZID=Asia/Riyadh:20261023T072000
+SUMMARY:Daily five — The neurological examination I — cranial & motor
+DESCRIPTION:Week 12\, day 5 — The neurological examination I — crania
+ l & motor.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w12d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261024T070000
+DTEND;TZID=Asia/Riyadh:20261024T072000
+SUMMARY:Daily five — The neurological examination I — cranial & motor
+DESCRIPTION:Week 12\, day 6 — The neurological examination I — crania
+ l & motor.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w12d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261025T070000
+DTEND;TZID=Asia/Riyadh:20261025T072000
+SUMMARY:Daily five — The neurological examination I — cranial & motor
+DESCRIPTION:Week 12\, day 7 — The neurological examination I — crania
+ l & motor.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w13d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261026T070000
+DTEND;TZID=Asia/Riyadh:20261026T072000
+SUMMARY:Daily five — The neurological examination II — localisation p
+ ractice
+DESCRIPTION:Week 13\, day 1 — The neurological examination II — local
+ isation practice.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w13d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261027T070000
+DTEND;TZID=Asia/Riyadh:20261027T072000
+SUMMARY:Daily five — The neurological examination II — localisation p
+ ractice
+DESCRIPTION:Week 13\, day 2 — The neurological examination II — local
+ isation practice.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w13d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261028T070000
+DTEND;TZID=Asia/Riyadh:20261028T072000
+SUMMARY:Daily five — The neurological examination II — localisation p
+ ractice
+DESCRIPTION:Week 13\, day 3 — The neurological examination II — local
+ isation practice.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w13d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261029T070000
+DTEND;TZID=Asia/Riyadh:20261029T072000
+SUMMARY:Daily five — The neurological examination II — localisation p
+ ractice
+DESCRIPTION:Week 13\, day 4 — The neurological examination II — local
+ isation practice.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w13d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261030T070000
+DTEND;TZID=Asia/Riyadh:20261030T072000
+SUMMARY:Daily five — The neurological examination II — localisation p
+ ractice
+DESCRIPTION:Week 13\, day 5 — The neurological examination II — local
+ isation practice.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w13d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261031T070000
+DTEND;TZID=Asia/Riyadh:20261031T072000
+SUMMARY:Daily five — The neurological examination II — localisation p
+ ractice
+DESCRIPTION:Week 13\, day 6 — The neurological examination II — local
+ isation practice.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w13d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261101T070000
+DTEND;TZID=Asia/Riyadh:20261101T072000
+SUMMARY:Daily five — The neurological examination II — localisation p
+ ractice
+DESCRIPTION:Week 13\, day 7 — The neurological examination II — local
+ isation practice.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w14d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261102T070000
+DTEND;TZID=Asia/Riyadh:20261102T072000
+SUMMARY:Daily five — Monro–Kellie\, compliance & ICP waveforms
+DESCRIPTION:Week 14\, day 1 — Monro–Kellie\, compliance & ICP wavefor
+ ms.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w14d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261103T070000
+DTEND;TZID=Asia/Riyadh:20261103T072000
+SUMMARY:Daily five — Monro–Kellie\, compliance & ICP waveforms
+DESCRIPTION:Week 14\, day 2 — Monro–Kellie\, compliance & ICP wavefor
+ ms.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w14d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261104T070000
+DTEND;TZID=Asia/Riyadh:20261104T072000
+SUMMARY:Daily five — Monro–Kellie\, compliance & ICP waveforms
+DESCRIPTION:Week 14\, day 3 — Monro–Kellie\, compliance & ICP wavefor
+ ms.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w14d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261105T070000
+DTEND;TZID=Asia/Riyadh:20261105T072000
+SUMMARY:Daily five — Monro–Kellie\, compliance & ICP waveforms
+DESCRIPTION:Week 14\, day 4 — Monro–Kellie\, compliance & ICP wavefor
+ ms.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w14d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261106T070000
+DTEND;TZID=Asia/Riyadh:20261106T072000
+SUMMARY:Daily five — Monro–Kellie\, compliance & ICP waveforms
+DESCRIPTION:Week 14\, day 5 — Monro–Kellie\, compliance & ICP wavefor
+ ms.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w14d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261107T070000
+DTEND;TZID=Asia/Riyadh:20261107T072000
+SUMMARY:Daily five — Monro–Kellie\, compliance & ICP waveforms
+DESCRIPTION:Week 14\, day 6 — Monro–Kellie\, compliance & ICP wavefor
+ ms.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w14d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261108T070000
+DTEND;TZID=Asia/Riyadh:20261108T072000
+SUMMARY:Daily five — Monro–Kellie\, compliance & ICP waveforms
+DESCRIPTION:Week 14\, day 7 — Monro–Kellie\, compliance & ICP wavefor
+ ms.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w15d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261109T070000
+DTEND;TZID=Asia/Riyadh:20261109T072000
+SUMMARY:Daily five — Cerebral perfusion pressure & autoregulation
+DESCRIPTION:Week 15\, day 1 — Cerebral perfusion pressure & autoregulat
+ ion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w15d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261110T070000
+DTEND;TZID=Asia/Riyadh:20261110T072000
+SUMMARY:Daily five — Cerebral perfusion pressure & autoregulation
+DESCRIPTION:Week 15\, day 2 — Cerebral perfusion pressure & autoregulat
+ ion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w15d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261111T070000
+DTEND;TZID=Asia/Riyadh:20261111T072000
+SUMMARY:Daily five — Cerebral perfusion pressure & autoregulation
+DESCRIPTION:Week 15\, day 3 — Cerebral perfusion pressure & autoregulat
+ ion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w15d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261112T070000
+DTEND;TZID=Asia/Riyadh:20261112T072000
+SUMMARY:Daily five — Cerebral perfusion pressure & autoregulation
+DESCRIPTION:Week 15\, day 4 — Cerebral perfusion pressure & autoregulat
+ ion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w15d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261113T070000
+DTEND;TZID=Asia/Riyadh:20261113T072000
+SUMMARY:Daily five — Cerebral perfusion pressure & autoregulation
+DESCRIPTION:Week 15\, day 5 — Cerebral perfusion pressure & autoregulat
+ ion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w15d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261114T070000
+DTEND;TZID=Asia/Riyadh:20261114T072000
+SUMMARY:Daily five — Cerebral perfusion pressure & autoregulation
+DESCRIPTION:Week 15\, day 6 — Cerebral perfusion pressure & autoregulat
+ ion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w15d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261115T070000
+DTEND;TZID=Asia/Riyadh:20261115T072000
+SUMMARY:Daily five — Cerebral perfusion pressure & autoregulation
+DESCRIPTION:Week 15\, day 7 — Cerebral perfusion pressure & autoregulat
+ ion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w16d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261116T070000
+DTEND;TZID=Asia/Riyadh:20261116T072000
+SUMMARY:Daily five — Cerebral oedema — vasogenic\, cytotoxic\, inters
+ titial
+DESCRIPTION:Week 16\, day 1 — Cerebral oedema — vasogenic\, cytotoxic
+ \, interstitial.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w16d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261117T070000
+DTEND;TZID=Asia/Riyadh:20261117T072000
+SUMMARY:Daily five — Cerebral oedema — vasogenic\, cytotoxic\, inters
+ titial
+DESCRIPTION:Week 16\, day 2 — Cerebral oedema — vasogenic\, cytotoxic
+ \, interstitial.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w16d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261118T070000
+DTEND;TZID=Asia/Riyadh:20261118T072000
+SUMMARY:Daily five — Cerebral oedema — vasogenic\, cytotoxic\, inters
+ titial
+DESCRIPTION:Week 16\, day 3 — Cerebral oedema — vasogenic\, cytotoxic
+ \, interstitial.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w16d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261119T070000
+DTEND;TZID=Asia/Riyadh:20261119T072000
+SUMMARY:Daily five — Cerebral oedema — vasogenic\, cytotoxic\, inters
+ titial
+DESCRIPTION:Week 16\, day 4 — Cerebral oedema — vasogenic\, cytotoxic
+ \, interstitial.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w16d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261120T070000
+DTEND;TZID=Asia/Riyadh:20261120T072000
+SUMMARY:Daily five — Cerebral oedema — vasogenic\, cytotoxic\, inters
+ titial
+DESCRIPTION:Week 16\, day 5 — Cerebral oedema — vasogenic\, cytotoxic
+ \, interstitial.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w16d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261121T070000
+DTEND;TZID=Asia/Riyadh:20261121T072000
+SUMMARY:Daily five — Cerebral oedema — vasogenic\, cytotoxic\, inters
+ titial
+DESCRIPTION:Week 16\, day 6 — Cerebral oedema — vasogenic\, cytotoxic
+ \, interstitial.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w16d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261122T070000
+DTEND;TZID=Asia/Riyadh:20261122T072000
+SUMMARY:Daily five — Cerebral oedema — vasogenic\, cytotoxic\, inters
+ titial
+DESCRIPTION:Week 16\, day 7 — Cerebral oedema — vasogenic\, cytotoxic
+ \, interstitial.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w17d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261123T070000
+DTEND;TZID=Asia/Riyadh:20261123T072000
+SUMMARY:Daily five — Herniation syndromes & the ICP ladder
+DESCRIPTION:Week 17\, day 1 — Herniation syndromes & the ICP ladder.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w17d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261124T070000
+DTEND;TZID=Asia/Riyadh:20261124T072000
+SUMMARY:Daily five — Herniation syndromes & the ICP ladder
+DESCRIPTION:Week 17\, day 2 — Herniation syndromes & the ICP ladder.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w17d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261125T070000
+DTEND;TZID=Asia/Riyadh:20261125T072000
+SUMMARY:Daily five — Herniation syndromes & the ICP ladder
+DESCRIPTION:Week 17\, day 3 — Herniation syndromes & the ICP ladder.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w17d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261126T070000
+DTEND;TZID=Asia/Riyadh:20261126T072000
+SUMMARY:Daily five — Herniation syndromes & the ICP ladder
+DESCRIPTION:Week 17\, day 4 — Herniation syndromes & the ICP ladder.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w17d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261127T070000
+DTEND;TZID=Asia/Riyadh:20261127T072000
+SUMMARY:Daily five — Herniation syndromes & the ICP ladder
+DESCRIPTION:Week 17\, day 5 — Herniation syndromes & the ICP ladder.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w17d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261128T070000
+DTEND;TZID=Asia/Riyadh:20261128T072000
+SUMMARY:Daily five — Herniation syndromes & the ICP ladder
+DESCRIPTION:Week 17\, day 6 — Herniation syndromes & the ICP ladder.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w17d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261129T070000
+DTEND;TZID=Asia/Riyadh:20261129T072000
+SUMMARY:Daily five — Herniation syndromes & the ICP ladder
+DESCRIPTION:Week 17\, day 7 — Herniation syndromes & the ICP ladder.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w18d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261130T070000
+DTEND;TZID=Asia/Riyadh:20261130T072000
+SUMMARY:Daily five — GCS\, pupils & the head-injury primary survey
+DESCRIPTION:Week 18\, day 1 — GCS\, pupils & the head-injury primary su
+ rvey.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w18d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261201T070000
+DTEND;TZID=Asia/Riyadh:20261201T072000
+SUMMARY:Daily five — GCS\, pupils & the head-injury primary survey
+DESCRIPTION:Week 18\, day 2 — GCS\, pupils & the head-injury primary su
+ rvey.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w18d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261202T070000
+DTEND;TZID=Asia/Riyadh:20261202T072000
+SUMMARY:Daily five — GCS\, pupils & the head-injury primary survey
+DESCRIPTION:Week 18\, day 3 — GCS\, pupils & the head-injury primary su
+ rvey.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w18d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261203T070000
+DTEND;TZID=Asia/Riyadh:20261203T072000
+SUMMARY:Daily five — GCS\, pupils & the head-injury primary survey
+DESCRIPTION:Week 18\, day 4 — GCS\, pupils & the head-injury primary su
+ rvey.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w18d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261204T070000
+DTEND;TZID=Asia/Riyadh:20261204T072000
+SUMMARY:Daily five — GCS\, pupils & the head-injury primary survey
+DESCRIPTION:Week 18\, day 5 — GCS\, pupils & the head-injury primary su
+ rvey.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w18d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261205T070000
+DTEND;TZID=Asia/Riyadh:20261205T072000
+SUMMARY:Daily five — GCS\, pupils & the head-injury primary survey
+DESCRIPTION:Week 18\, day 6 — GCS\, pupils & the head-injury primary su
+ rvey.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w18d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261206T070000
+DTEND;TZID=Asia/Riyadh:20261206T072000
+SUMMARY:Daily five — GCS\, pupils & the head-injury primary survey
+DESCRIPTION:Week 18\, day 7 — GCS\, pupils & the head-injury primary su
+ rvey.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w19d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261207T070000
+DTEND;TZID=Asia/Riyadh:20261207T072000
+SUMMARY:Daily five — Extradural\, subdural & contusion
+DESCRIPTION:Week 19\, day 1 — Extradural\, subdural & contusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w19d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261208T070000
+DTEND;TZID=Asia/Riyadh:20261208T072000
+SUMMARY:Daily five — Extradural\, subdural & contusion
+DESCRIPTION:Week 19\, day 2 — Extradural\, subdural & contusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w19d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261209T070000
+DTEND;TZID=Asia/Riyadh:20261209T072000
+SUMMARY:Daily five — Extradural\, subdural & contusion
+DESCRIPTION:Week 19\, day 3 — Extradural\, subdural & contusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w19d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261210T070000
+DTEND;TZID=Asia/Riyadh:20261210T072000
+SUMMARY:Daily five — Extradural\, subdural & contusion
+DESCRIPTION:Week 19\, day 4 — Extradural\, subdural & contusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w19d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261211T070000
+DTEND;TZID=Asia/Riyadh:20261211T072000
+SUMMARY:Daily five — Extradural\, subdural & contusion
+DESCRIPTION:Week 19\, day 5 — Extradural\, subdural & contusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w19d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261212T070000
+DTEND;TZID=Asia/Riyadh:20261212T072000
+SUMMARY:Daily five — Extradural\, subdural & contusion
+DESCRIPTION:Week 19\, day 6 — Extradural\, subdural & contusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w19d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261213T070000
+DTEND;TZID=Asia/Riyadh:20261213T072000
+SUMMARY:Daily five — Extradural\, subdural & contusion
+DESCRIPTION:Week 19\, day 7 — Extradural\, subdural & contusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w20d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261214T070000
+DTEND;TZID=Asia/Riyadh:20261214T072000
+SUMMARY:Daily five — DAI\, traumatic SAH\, skull fractures & CSF leak
+DESCRIPTION:Week 20\, day 1 — DAI\, traumatic SAH\, skull fractures & C
+ SF leak.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w20d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261215T070000
+DTEND;TZID=Asia/Riyadh:20261215T072000
+SUMMARY:Daily five — DAI\, traumatic SAH\, skull fractures & CSF leak
+DESCRIPTION:Week 20\, day 2 — DAI\, traumatic SAH\, skull fractures & C
+ SF leak.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w20d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261216T070000
+DTEND;TZID=Asia/Riyadh:20261216T072000
+SUMMARY:Daily five — DAI\, traumatic SAH\, skull fractures & CSF leak
+DESCRIPTION:Week 20\, day 3 — DAI\, traumatic SAH\, skull fractures & C
+ SF leak.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w20d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261217T070000
+DTEND;TZID=Asia/Riyadh:20261217T072000
+SUMMARY:Daily five — DAI\, traumatic SAH\, skull fractures & CSF leak
+DESCRIPTION:Week 20\, day 4 — DAI\, traumatic SAH\, skull fractures & C
+ SF leak.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w20d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261218T070000
+DTEND;TZID=Asia/Riyadh:20261218T072000
+SUMMARY:Daily five — DAI\, traumatic SAH\, skull fractures & CSF leak
+DESCRIPTION:Week 20\, day 5 — DAI\, traumatic SAH\, skull fractures & C
+ SF leak.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w20d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261219T070000
+DTEND;TZID=Asia/Riyadh:20261219T072000
+SUMMARY:Daily five — DAI\, traumatic SAH\, skull fractures & CSF leak
+DESCRIPTION:Week 20\, day 6 — DAI\, traumatic SAH\, skull fractures & C
+ SF leak.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w20d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261220T070000
+DTEND;TZID=Asia/Riyadh:20261220T072000
+SUMMARY:Daily five — DAI\, traumatic SAH\, skull fractures & CSF leak
+DESCRIPTION:Week 20\, day 7 — DAI\, traumatic SAH\, skull fractures & C
+ SF leak.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w21d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261221T070000
+DTEND;TZID=Asia/Riyadh:20261221T072000
+SUMMARY:Daily five — Surgical indications in head injury
+DESCRIPTION:Week 21\, day 1 — Surgical indications in head injury.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w21d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261222T070000
+DTEND;TZID=Asia/Riyadh:20261222T072000
+SUMMARY:Daily five — Surgical indications in head injury
+DESCRIPTION:Week 21\, day 2 — Surgical indications in head injury.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w21d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261223T070000
+DTEND;TZID=Asia/Riyadh:20261223T072000
+SUMMARY:Daily five — Surgical indications in head injury
+DESCRIPTION:Week 21\, day 3 — Surgical indications in head injury.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w21d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261224T070000
+DTEND;TZID=Asia/Riyadh:20261224T072000
+SUMMARY:Daily five — Surgical indications in head injury
+DESCRIPTION:Week 21\, day 4 — Surgical indications in head injury.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w21d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261225T070000
+DTEND;TZID=Asia/Riyadh:20261225T072000
+SUMMARY:Daily five — Surgical indications in head injury
+DESCRIPTION:Week 21\, day 5 — Surgical indications in head injury.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w21d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261226T070000
+DTEND;TZID=Asia/Riyadh:20261226T072000
+SUMMARY:Daily five — Surgical indications in head injury
+DESCRIPTION:Week 21\, day 6 — Surgical indications in head injury.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w21d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261227T070000
+DTEND;TZID=Asia/Riyadh:20261227T072000
+SUMMARY:Daily five — Surgical indications in head injury
+DESCRIPTION:Week 21\, day 7 — Surgical indications in head injury.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w22d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261228T070000
+DTEND;TZID=Asia/Riyadh:20261228T072000
+SUMMARY:Daily five — Spinal trauma\, ASIA & cervical clearance
+DESCRIPTION:Week 22\, day 1 — Spinal trauma\, ASIA & cervical clearance
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w22d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261229T070000
+DTEND;TZID=Asia/Riyadh:20261229T072000
+SUMMARY:Daily five — Spinal trauma\, ASIA & cervical clearance
+DESCRIPTION:Week 22\, day 2 — Spinal trauma\, ASIA & cervical clearance
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w22d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261230T070000
+DTEND;TZID=Asia/Riyadh:20261230T072000
+SUMMARY:Daily five — Spinal trauma\, ASIA & cervical clearance
+DESCRIPTION:Week 22\, day 3 — Spinal trauma\, ASIA & cervical clearance
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w22d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20261231T070000
+DTEND;TZID=Asia/Riyadh:20261231T072000
+SUMMARY:Daily five — Spinal trauma\, ASIA & cervical clearance
+DESCRIPTION:Week 22\, day 4 — Spinal trauma\, ASIA & cervical clearance
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w22d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270101T070000
+DTEND;TZID=Asia/Riyadh:20270101T072000
+SUMMARY:Daily five — Spinal trauma\, ASIA & cervical clearance
+DESCRIPTION:Week 22\, day 5 — Spinal trauma\, ASIA & cervical clearance
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w22d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270102T070000
+DTEND;TZID=Asia/Riyadh:20270102T072000
+SUMMARY:Daily five — Spinal trauma\, ASIA & cervical clearance
+DESCRIPTION:Week 22\, day 6 — Spinal trauma\, ASIA & cervical clearance
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w22d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270103T070000
+DTEND;TZID=Asia/Riyadh:20270103T072000
+SUMMARY:Daily five — Spinal trauma\, ASIA & cervical clearance
+DESCRIPTION:Week 22\, day 7 — Spinal trauma\, ASIA & cervical clearance
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w23d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270104T070000
+DTEND;TZID=Asia/Riyadh:20270104T072000
+SUMMARY:Daily five — CSF physiology & types of hydrocephalus
+DESCRIPTION:Week 23\, day 1 — CSF physiology & types of hydrocephalus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w23d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270105T070000
+DTEND;TZID=Asia/Riyadh:20270105T072000
+SUMMARY:Daily five — CSF physiology & types of hydrocephalus
+DESCRIPTION:Week 23\, day 2 — CSF physiology & types of hydrocephalus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w23d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270106T070000
+DTEND;TZID=Asia/Riyadh:20270106T072000
+SUMMARY:Daily five — CSF physiology & types of hydrocephalus
+DESCRIPTION:Week 23\, day 3 — CSF physiology & types of hydrocephalus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w23d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270107T070000
+DTEND;TZID=Asia/Riyadh:20270107T072000
+SUMMARY:Daily five — CSF physiology & types of hydrocephalus
+DESCRIPTION:Week 23\, day 4 — CSF physiology & types of hydrocephalus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w23d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270108T070000
+DTEND;TZID=Asia/Riyadh:20270108T072000
+SUMMARY:Daily five — CSF physiology & types of hydrocephalus
+DESCRIPTION:Week 23\, day 5 — CSF physiology & types of hydrocephalus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w23d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270109T070000
+DTEND;TZID=Asia/Riyadh:20270109T072000
+SUMMARY:Daily five — CSF physiology & types of hydrocephalus
+DESCRIPTION:Week 23\, day 6 — CSF physiology & types of hydrocephalus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w23d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270110T070000
+DTEND;TZID=Asia/Riyadh:20270110T072000
+SUMMARY:Daily five — CSF physiology & types of hydrocephalus
+DESCRIPTION:Week 23\, day 7 — CSF physiology & types of hydrocephalus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w24d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270111T070000
+DTEND;TZID=Asia/Riyadh:20270111T072000
+SUMMARY:Daily five — Shunts and their complications
+DESCRIPTION:Week 24\, day 1 — Shunts and their complications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w24d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270112T070000
+DTEND;TZID=Asia/Riyadh:20270112T072000
+SUMMARY:Daily five — Shunts and their complications
+DESCRIPTION:Week 24\, day 2 — Shunts and their complications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w24d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270113T070000
+DTEND;TZID=Asia/Riyadh:20270113T072000
+SUMMARY:Daily five — Shunts and their complications
+DESCRIPTION:Week 24\, day 3 — Shunts and their complications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w24d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270114T070000
+DTEND;TZID=Asia/Riyadh:20270114T072000
+SUMMARY:Daily five — Shunts and their complications
+DESCRIPTION:Week 24\, day 4 — Shunts and their complications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w24d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270115T070000
+DTEND;TZID=Asia/Riyadh:20270115T072000
+SUMMARY:Daily five — Shunts and their complications
+DESCRIPTION:Week 24\, day 5 — Shunts and their complications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w24d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270116T070000
+DTEND;TZID=Asia/Riyadh:20270116T072000
+SUMMARY:Daily five — Shunts and their complications
+DESCRIPTION:Week 24\, day 6 — Shunts and their complications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w24d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270117T070000
+DTEND;TZID=Asia/Riyadh:20270117T072000
+SUMMARY:Daily five — Shunts and their complications
+DESCRIPTION:Week 24\, day 7 — Shunts and their complications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w25d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270118T070000
+DTEND;TZID=Asia/Riyadh:20270118T072000
+SUMMARY:Daily five — EVD\, ETV & normal pressure hydrocephalus
+DESCRIPTION:Week 25\, day 1 — EVD\, ETV & normal pressure hydrocephalus
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w25d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270119T070000
+DTEND;TZID=Asia/Riyadh:20270119T072000
+SUMMARY:Daily five — EVD\, ETV & normal pressure hydrocephalus
+DESCRIPTION:Week 25\, day 2 — EVD\, ETV & normal pressure hydrocephalus
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w25d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270120T070000
+DTEND;TZID=Asia/Riyadh:20270120T072000
+SUMMARY:Daily five — EVD\, ETV & normal pressure hydrocephalus
+DESCRIPTION:Week 25\, day 3 — EVD\, ETV & normal pressure hydrocephalus
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w25d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270121T070000
+DTEND;TZID=Asia/Riyadh:20270121T072000
+SUMMARY:Daily five — EVD\, ETV & normal pressure hydrocephalus
+DESCRIPTION:Week 25\, day 4 — EVD\, ETV & normal pressure hydrocephalus
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w25d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270122T070000
+DTEND;TZID=Asia/Riyadh:20270122T072000
+SUMMARY:Daily five — EVD\, ETV & normal pressure hydrocephalus
+DESCRIPTION:Week 25\, day 5 — EVD\, ETV & normal pressure hydrocephalus
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w25d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270123T070000
+DTEND;TZID=Asia/Riyadh:20270123T072000
+SUMMARY:Daily five — EVD\, ETV & normal pressure hydrocephalus
+DESCRIPTION:Week 25\, day 6 — EVD\, ETV & normal pressure hydrocephalus
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w25d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270124T070000
+DTEND;TZID=Asia/Riyadh:20270124T072000
+SUMMARY:Daily five — EVD\, ETV & normal pressure hydrocephalus
+DESCRIPTION:Week 25\, day 7 — EVD\, ETV & normal pressure hydrocephalus
+ .
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w26d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270125T070000
+DTEND;TZID=Asia/Riyadh:20270125T072000
+SUMMARY:Daily five — The systematic CT head read & ward craft
+DESCRIPTION:Week 26\, day 1 — The systematic CT head read & ward craft.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w26d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270126T070000
+DTEND;TZID=Asia/Riyadh:20270126T072000
+SUMMARY:Daily five — The systematic CT head read & ward craft
+DESCRIPTION:Week 26\, day 2 — The systematic CT head read & ward craft.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w26d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270127T070000
+DTEND;TZID=Asia/Riyadh:20270127T072000
+SUMMARY:Daily five — The systematic CT head read & ward craft
+DESCRIPTION:Week 26\, day 3 — The systematic CT head read & ward craft.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w26d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270128T070000
+DTEND;TZID=Asia/Riyadh:20270128T072000
+SUMMARY:Daily five — The systematic CT head read & ward craft
+DESCRIPTION:Week 26\, day 4 — The systematic CT head read & ward craft.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w26d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270129T070000
+DTEND;TZID=Asia/Riyadh:20270129T072000
+SUMMARY:Daily five — The systematic CT head read & ward craft
+DESCRIPTION:Week 26\, day 5 — The systematic CT head read & ward craft.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w26d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270130T070000
+DTEND;TZID=Asia/Riyadh:20270130T072000
+SUMMARY:Daily five — The systematic CT head read & ward craft
+DESCRIPTION:Week 26\, day 6 — The systematic CT head read & ward craft.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w26d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270131T070000
+DTEND;TZID=Asia/Riyadh:20270131T072000
+SUMMARY:Daily five — The systematic CT head read & ward craft
+DESCRIPTION:Week 26\, day 7 — The systematic CT head read & ward craft.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w27d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270201T070000
+DTEND;TZID=Asia/Riyadh:20270201T072000
+SUMMARY:Daily five — Gliomas & molecular classification
+DESCRIPTION:Week 27\, day 1 — Gliomas & molecular classification.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w27d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270202T070000
+DTEND;TZID=Asia/Riyadh:20270202T072000
+SUMMARY:Daily five — Gliomas & molecular classification
+DESCRIPTION:Week 27\, day 2 — Gliomas & molecular classification.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w27d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270203T070000
+DTEND;TZID=Asia/Riyadh:20270203T072000
+SUMMARY:Daily five — Gliomas & molecular classification
+DESCRIPTION:Week 27\, day 3 — Gliomas & molecular classification.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w27d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270204T070000
+DTEND;TZID=Asia/Riyadh:20270204T072000
+SUMMARY:Daily five — Gliomas & molecular classification
+DESCRIPTION:Week 27\, day 4 — Gliomas & molecular classification.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w27d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270205T070000
+DTEND;TZID=Asia/Riyadh:20270205T072000
+SUMMARY:Daily five — Gliomas & molecular classification
+DESCRIPTION:Week 27\, day 5 — Gliomas & molecular classification.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w27d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270206T070000
+DTEND;TZID=Asia/Riyadh:20270206T072000
+SUMMARY:Daily five — Gliomas & molecular classification
+DESCRIPTION:Week 27\, day 6 — Gliomas & molecular classification.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w27d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270207T070000
+DTEND;TZID=Asia/Riyadh:20270207T072000
+SUMMARY:Daily five — Gliomas & molecular classification
+DESCRIPTION:Week 27\, day 7 — Gliomas & molecular classification.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w28d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270208T070000
+DTEND;TZID=Asia/Riyadh:20270208T072000
+SUMMARY:Daily five — Meningiomas & brain metastases
+DESCRIPTION:Week 28\, day 1 — Meningiomas & brain metastases.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w28d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270209T070000
+DTEND;TZID=Asia/Riyadh:20270209T072000
+SUMMARY:Daily five — Meningiomas & brain metastases
+DESCRIPTION:Week 28\, day 2 — Meningiomas & brain metastases.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w28d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270210T070000
+DTEND;TZID=Asia/Riyadh:20270210T072000
+SUMMARY:Daily five — Meningiomas & brain metastases
+DESCRIPTION:Week 28\, day 3 — Meningiomas & brain metastases.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w28d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270211T070000
+DTEND;TZID=Asia/Riyadh:20270211T072000
+SUMMARY:Daily five — Meningiomas & brain metastases
+DESCRIPTION:Week 28\, day 4 — Meningiomas & brain metastases.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w28d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270212T070000
+DTEND;TZID=Asia/Riyadh:20270212T072000
+SUMMARY:Daily five — Meningiomas & brain metastases
+DESCRIPTION:Week 28\, day 5 — Meningiomas & brain metastases.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w28d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270213T070000
+DTEND;TZID=Asia/Riyadh:20270213T072000
+SUMMARY:Daily five — Meningiomas & brain metastases
+DESCRIPTION:Week 28\, day 6 — Meningiomas & brain metastases.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w28d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270214T070000
+DTEND;TZID=Asia/Riyadh:20270214T072000
+SUMMARY:Daily five — Meningiomas & brain metastases
+DESCRIPTION:Week 28\, day 7 — Meningiomas & brain metastases.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w29d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270215T070000
+DTEND;TZID=Asia/Riyadh:20270215T072000
+SUMMARY:Daily five — Pituitary & sellar lesions
+DESCRIPTION:Week 29\, day 1 — Pituitary & sellar lesions.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w29d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270216T070000
+DTEND;TZID=Asia/Riyadh:20270216T072000
+SUMMARY:Daily five — Pituitary & sellar lesions
+DESCRIPTION:Week 29\, day 2 — Pituitary & sellar lesions.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w29d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270217T070000
+DTEND;TZID=Asia/Riyadh:20270217T072000
+SUMMARY:Daily five — Pituitary & sellar lesions
+DESCRIPTION:Week 29\, day 3 — Pituitary & sellar lesions.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w29d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270218T070000
+DTEND;TZID=Asia/Riyadh:20270218T072000
+SUMMARY:Daily five — Pituitary & sellar lesions
+DESCRIPTION:Week 29\, day 4 — Pituitary & sellar lesions.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w29d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270219T070000
+DTEND;TZID=Asia/Riyadh:20270219T072000
+SUMMARY:Daily five — Pituitary & sellar lesions
+DESCRIPTION:Week 29\, day 5 — Pituitary & sellar lesions.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w29d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270220T070000
+DTEND;TZID=Asia/Riyadh:20270220T072000
+SUMMARY:Daily five — Pituitary & sellar lesions
+DESCRIPTION:Week 29\, day 6 — Pituitary & sellar lesions.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w29d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270221T070000
+DTEND;TZID=Asia/Riyadh:20270221T072000
+SUMMARY:Daily five — Pituitary & sellar lesions
+DESCRIPTION:Week 29\, day 7 — Pituitary & sellar lesions.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w30d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270222T070000
+DTEND;TZID=Asia/Riyadh:20270222T072000
+SUMMARY:Daily five — The cerebellopontine angle & vestibular schwannoma
+DESCRIPTION:Week 30\, day 1 — The cerebellopontine angle & vestibular s
+ chwannoma.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w30d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270223T070000
+DTEND;TZID=Asia/Riyadh:20270223T072000
+SUMMARY:Daily five — The cerebellopontine angle & vestibular schwannoma
+DESCRIPTION:Week 30\, day 2 — The cerebellopontine angle & vestibular s
+ chwannoma.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w30d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270224T070000
+DTEND;TZID=Asia/Riyadh:20270224T072000
+SUMMARY:Daily five — The cerebellopontine angle & vestibular schwannoma
+DESCRIPTION:Week 30\, day 3 — The cerebellopontine angle & vestibular s
+ chwannoma.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w30d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270225T070000
+DTEND;TZID=Asia/Riyadh:20270225T072000
+SUMMARY:Daily five — The cerebellopontine angle & vestibular schwannoma
+DESCRIPTION:Week 30\, day 4 — The cerebellopontine angle & vestibular s
+ chwannoma.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w30d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270226T070000
+DTEND;TZID=Asia/Riyadh:20270226T072000
+SUMMARY:Daily five — The cerebellopontine angle & vestibular schwannoma
+DESCRIPTION:Week 30\, day 5 — The cerebellopontine angle & vestibular s
+ chwannoma.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w30d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270227T070000
+DTEND;TZID=Asia/Riyadh:20270227T072000
+SUMMARY:Daily five — The cerebellopontine angle & vestibular schwannoma
+DESCRIPTION:Week 30\, day 6 — The cerebellopontine angle & vestibular s
+ chwannoma.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w30d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270228T070000
+DTEND;TZID=Asia/Riyadh:20270228T072000
+SUMMARY:Daily five — The cerebellopontine angle & vestibular schwannoma
+DESCRIPTION:Week 30\, day 7 — The cerebellopontine angle & vestibular s
+ chwannoma.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w31d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270301T070000
+DTEND;TZID=Asia/Riyadh:20270301T072000
+SUMMARY:Daily five — Cervical degenerative disease & myelopathy
+DESCRIPTION:Week 31\, day 1 — Cervical degenerative disease & myelopath
+ y.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w31d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270302T070000
+DTEND;TZID=Asia/Riyadh:20270302T072000
+SUMMARY:Daily five — Cervical degenerative disease & myelopathy
+DESCRIPTION:Week 31\, day 2 — Cervical degenerative disease & myelopath
+ y.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w31d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270303T070000
+DTEND;TZID=Asia/Riyadh:20270303T072000
+SUMMARY:Daily five — Cervical degenerative disease & myelopathy
+DESCRIPTION:Week 31\, day 3 — Cervical degenerative disease & myelopath
+ y.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w31d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270304T070000
+DTEND;TZID=Asia/Riyadh:20270304T072000
+SUMMARY:Daily five — Cervical degenerative disease & myelopathy
+DESCRIPTION:Week 31\, day 4 — Cervical degenerative disease & myelopath
+ y.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w31d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270305T070000
+DTEND;TZID=Asia/Riyadh:20270305T072000
+SUMMARY:Daily five — Cervical degenerative disease & myelopathy
+DESCRIPTION:Week 31\, day 5 — Cervical degenerative disease & myelopath
+ y.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w31d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270306T070000
+DTEND;TZID=Asia/Riyadh:20270306T072000
+SUMMARY:Daily five — Cervical degenerative disease & myelopathy
+DESCRIPTION:Week 31\, day 6 — Cervical degenerative disease & myelopath
+ y.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w31d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270307T070000
+DTEND;TZID=Asia/Riyadh:20270307T072000
+SUMMARY:Daily five — Cervical degenerative disease & myelopathy
+DESCRIPTION:Week 31\, day 7 — Cervical degenerative disease & myelopath
+ y.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w32d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270308T070000
+DTEND;TZID=Asia/Riyadh:20270308T072000
+SUMMARY:Daily five — Lumbar disc\, stenosis & spondylolisthesis
+DESCRIPTION:Week 32\, day 1 — Lumbar disc\, stenosis & spondylolisthesi
+ s.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w32d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270309T070000
+DTEND;TZID=Asia/Riyadh:20270309T072000
+SUMMARY:Daily five — Lumbar disc\, stenosis & spondylolisthesis
+DESCRIPTION:Week 32\, day 2 — Lumbar disc\, stenosis & spondylolisthesi
+ s.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w32d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270310T070000
+DTEND;TZID=Asia/Riyadh:20270310T072000
+SUMMARY:Daily five — Lumbar disc\, stenosis & spondylolisthesis
+DESCRIPTION:Week 32\, day 3 — Lumbar disc\, stenosis & spondylolisthesi
+ s.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w32d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270311T070000
+DTEND;TZID=Asia/Riyadh:20270311T072000
+SUMMARY:Daily five — Lumbar disc\, stenosis & spondylolisthesis
+DESCRIPTION:Week 32\, day 4 — Lumbar disc\, stenosis & spondylolisthesi
+ s.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w32d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270312T070000
+DTEND;TZID=Asia/Riyadh:20270312T072000
+SUMMARY:Daily five — Lumbar disc\, stenosis & spondylolisthesis
+DESCRIPTION:Week 32\, day 5 — Lumbar disc\, stenosis & spondylolisthesi
+ s.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w32d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270313T070000
+DTEND;TZID=Asia/Riyadh:20270313T072000
+SUMMARY:Daily five — Lumbar disc\, stenosis & spondylolisthesis
+DESCRIPTION:Week 32\, day 6 — Lumbar disc\, stenosis & spondylolisthesi
+ s.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w32d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270314T070000
+DTEND;TZID=Asia/Riyadh:20270314T072000
+SUMMARY:Daily five — Lumbar disc\, stenosis & spondylolisthesis
+DESCRIPTION:Week 32\, day 7 — Lumbar disc\, stenosis & spondylolisthesi
+ s.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w33d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270315T070000
+DTEND;TZID=Asia/Riyadh:20270315T072000
+SUMMARY:Daily five — Red flags & cauda equina syndrome
+DESCRIPTION:Week 33\, day 1 — Red flags & cauda equina syndrome.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w33d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270316T070000
+DTEND;TZID=Asia/Riyadh:20270316T072000
+SUMMARY:Daily five — Red flags & cauda equina syndrome
+DESCRIPTION:Week 33\, day 2 — Red flags & cauda equina syndrome.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w33d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270317T070000
+DTEND;TZID=Asia/Riyadh:20270317T072000
+SUMMARY:Daily five — Red flags & cauda equina syndrome
+DESCRIPTION:Week 33\, day 3 — Red flags & cauda equina syndrome.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w33d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270318T070000
+DTEND;TZID=Asia/Riyadh:20270318T072000
+SUMMARY:Daily five — Red flags & cauda equina syndrome
+DESCRIPTION:Week 33\, day 4 — Red flags & cauda equina syndrome.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w33d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270319T070000
+DTEND;TZID=Asia/Riyadh:20270319T072000
+SUMMARY:Daily five — Red flags & cauda equina syndrome
+DESCRIPTION:Week 33\, day 5 — Red flags & cauda equina syndrome.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w33d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270320T070000
+DTEND;TZID=Asia/Riyadh:20270320T072000
+SUMMARY:Daily five — Red flags & cauda equina syndrome
+DESCRIPTION:Week 33\, day 6 — Red flags & cauda equina syndrome.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w33d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270321T070000
+DTEND;TZID=Asia/Riyadh:20270321T072000
+SUMMARY:Daily five — Red flags & cauda equina syndrome
+DESCRIPTION:Week 33\, day 7 — Red flags & cauda equina syndrome.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w34d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270322T070000
+DTEND;TZID=Asia/Riyadh:20270322T072000
+SUMMARY:Daily five — Spinal tumours & spinal infection
+DESCRIPTION:Week 34\, day 1 — Spinal tumours & spinal infection.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w34d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270323T070000
+DTEND;TZID=Asia/Riyadh:20270323T072000
+SUMMARY:Daily five — Spinal tumours & spinal infection
+DESCRIPTION:Week 34\, day 2 — Spinal tumours & spinal infection.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w34d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270324T070000
+DTEND;TZID=Asia/Riyadh:20270324T072000
+SUMMARY:Daily five — Spinal tumours & spinal infection
+DESCRIPTION:Week 34\, day 3 — Spinal tumours & spinal infection.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w34d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270325T070000
+DTEND;TZID=Asia/Riyadh:20270325T072000
+SUMMARY:Daily five — Spinal tumours & spinal infection
+DESCRIPTION:Week 34\, day 4 — Spinal tumours & spinal infection.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w34d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270326T070000
+DTEND;TZID=Asia/Riyadh:20270326T072000
+SUMMARY:Daily five — Spinal tumours & spinal infection
+DESCRIPTION:Week 34\, day 5 — Spinal tumours & spinal infection.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w34d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270327T070000
+DTEND;TZID=Asia/Riyadh:20270327T072000
+SUMMARY:Daily five — Spinal tumours & spinal infection
+DESCRIPTION:Week 34\, day 6 — Spinal tumours & spinal infection.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w34d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270328T070000
+DTEND;TZID=Asia/Riyadh:20270328T072000
+SUMMARY:Daily five — Spinal tumours & spinal infection
+DESCRIPTION:Week 34\, day 7 — Spinal tumours & spinal infection.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w35d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270329T070000
+DTEND;TZID=Asia/Riyadh:20270329T072000
+SUMMARY:Daily five — Principles of spinal operations & instrumentation
+DESCRIPTION:Week 35\, day 1 — Principles of spinal operations & instrum
+ entation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w35d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270330T070000
+DTEND;TZID=Asia/Riyadh:20270330T072000
+SUMMARY:Daily five — Principles of spinal operations & instrumentation
+DESCRIPTION:Week 35\, day 2 — Principles of spinal operations & instrum
+ entation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w35d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270331T070000
+DTEND;TZID=Asia/Riyadh:20270331T072000
+SUMMARY:Daily five — Principles of spinal operations & instrumentation
+DESCRIPTION:Week 35\, day 3 — Principles of spinal operations & instrum
+ entation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w35d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270401T070000
+DTEND;TZID=Asia/Riyadh:20270401T072000
+SUMMARY:Daily five — Principles of spinal operations & instrumentation
+DESCRIPTION:Week 35\, day 4 — Principles of spinal operations & instrum
+ entation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w35d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270402T070000
+DTEND;TZID=Asia/Riyadh:20270402T072000
+SUMMARY:Daily five — Principles of spinal operations & instrumentation
+DESCRIPTION:Week 35\, day 5 — Principles of spinal operations & instrum
+ entation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w35d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270403T070000
+DTEND;TZID=Asia/Riyadh:20270403T072000
+SUMMARY:Daily five — Principles of spinal operations & instrumentation
+DESCRIPTION:Week 35\, day 6 — Principles of spinal operations & instrum
+ entation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w35d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270404T070000
+DTEND;TZID=Asia/Riyadh:20270404T072000
+SUMMARY:Daily five — Principles of spinal operations & instrumentation
+DESCRIPTION:Week 35\, day 7 — Principles of spinal operations & instrum
+ entation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w36d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270405T070000
+DTEND;TZID=Asia/Riyadh:20270405T072000
+SUMMARY:Daily five — Intracranial aneurysms & subarachnoid haemorrhage
+DESCRIPTION:Week 36\, day 1 — Intracranial aneurysms & subarachnoid hae
+ morrhage.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w36d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270406T070000
+DTEND;TZID=Asia/Riyadh:20270406T072000
+SUMMARY:Daily five — Intracranial aneurysms & subarachnoid haemorrhage
+DESCRIPTION:Week 36\, day 2 — Intracranial aneurysms & subarachnoid hae
+ morrhage.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w36d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270407T070000
+DTEND;TZID=Asia/Riyadh:20270407T072000
+SUMMARY:Daily five — Intracranial aneurysms & subarachnoid haemorrhage
+DESCRIPTION:Week 36\, day 3 — Intracranial aneurysms & subarachnoid hae
+ morrhage.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w36d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270408T070000
+DTEND;TZID=Asia/Riyadh:20270408T072000
+SUMMARY:Daily five — Intracranial aneurysms & subarachnoid haemorrhage
+DESCRIPTION:Week 36\, day 4 — Intracranial aneurysms & subarachnoid hae
+ morrhage.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w36d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270409T070000
+DTEND;TZID=Asia/Riyadh:20270409T072000
+SUMMARY:Daily five — Intracranial aneurysms & subarachnoid haemorrhage
+DESCRIPTION:Week 36\, day 5 — Intracranial aneurysms & subarachnoid hae
+ morrhage.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w36d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270410T070000
+DTEND;TZID=Asia/Riyadh:20270410T072000
+SUMMARY:Daily five — Intracranial aneurysms & subarachnoid haemorrhage
+DESCRIPTION:Week 36\, day 6 — Intracranial aneurysms & subarachnoid hae
+ morrhage.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w36d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270411T070000
+DTEND;TZID=Asia/Riyadh:20270411T072000
+SUMMARY:Daily five — Intracranial aneurysms & subarachnoid haemorrhage
+DESCRIPTION:Week 36\, day 7 — Intracranial aneurysms & subarachnoid hae
+ morrhage.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w37d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270412T070000
+DTEND;TZID=Asia/Riyadh:20270412T072000
+SUMMARY:Daily five — Vasospasm\, delayed ischaemia & SAH complications
+DESCRIPTION:Week 37\, day 1 — Vasospasm\, delayed ischaemia & SAH compl
+ ications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w37d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270413T070000
+DTEND;TZID=Asia/Riyadh:20270413T072000
+SUMMARY:Daily five — Vasospasm\, delayed ischaemia & SAH complications
+DESCRIPTION:Week 37\, day 2 — Vasospasm\, delayed ischaemia & SAH compl
+ ications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w37d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270414T070000
+DTEND;TZID=Asia/Riyadh:20270414T072000
+SUMMARY:Daily five — Vasospasm\, delayed ischaemia & SAH complications
+DESCRIPTION:Week 37\, day 3 — Vasospasm\, delayed ischaemia & SAH compl
+ ications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w37d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270415T070000
+DTEND;TZID=Asia/Riyadh:20270415T072000
+SUMMARY:Daily five — Vasospasm\, delayed ischaemia & SAH complications
+DESCRIPTION:Week 37\, day 4 — Vasospasm\, delayed ischaemia & SAH compl
+ ications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w37d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270416T070000
+DTEND;TZID=Asia/Riyadh:20270416T072000
+SUMMARY:Daily five — Vasospasm\, delayed ischaemia & SAH complications
+DESCRIPTION:Week 37\, day 5 — Vasospasm\, delayed ischaemia & SAH compl
+ ications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w37d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270417T070000
+DTEND;TZID=Asia/Riyadh:20270417T072000
+SUMMARY:Daily five — Vasospasm\, delayed ischaemia & SAH complications
+DESCRIPTION:Week 37\, day 6 — Vasospasm\, delayed ischaemia & SAH compl
+ ications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w37d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270418T070000
+DTEND;TZID=Asia/Riyadh:20270418T072000
+SUMMARY:Daily five — Vasospasm\, delayed ischaemia & SAH complications
+DESCRIPTION:Week 37\, day 7 — Vasospasm\, delayed ischaemia & SAH compl
+ ications.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w38d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270419T070000
+DTEND;TZID=Asia/Riyadh:20270419T072000
+SUMMARY:Daily five — AVM\, cavernoma & spontaneous ICH
+DESCRIPTION:Week 38\, day 1 — AVM\, cavernoma & spontaneous ICH.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w38d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270420T070000
+DTEND;TZID=Asia/Riyadh:20270420T072000
+SUMMARY:Daily five — AVM\, cavernoma & spontaneous ICH
+DESCRIPTION:Week 38\, day 2 — AVM\, cavernoma & spontaneous ICH.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w38d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270421T070000
+DTEND;TZID=Asia/Riyadh:20270421T072000
+SUMMARY:Daily five — AVM\, cavernoma & spontaneous ICH
+DESCRIPTION:Week 38\, day 3 — AVM\, cavernoma & spontaneous ICH.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w38d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270422T070000
+DTEND;TZID=Asia/Riyadh:20270422T072000
+SUMMARY:Daily five — AVM\, cavernoma & spontaneous ICH
+DESCRIPTION:Week 38\, day 4 — AVM\, cavernoma & spontaneous ICH.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w38d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270423T070000
+DTEND;TZID=Asia/Riyadh:20270423T072000
+SUMMARY:Daily five — AVM\, cavernoma & spontaneous ICH
+DESCRIPTION:Week 38\, day 5 — AVM\, cavernoma & spontaneous ICH.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w38d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270424T070000
+DTEND;TZID=Asia/Riyadh:20270424T072000
+SUMMARY:Daily five — AVM\, cavernoma & spontaneous ICH
+DESCRIPTION:Week 38\, day 6 — AVM\, cavernoma & spontaneous ICH.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w38d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270425T070000
+DTEND;TZID=Asia/Riyadh:20270425T072000
+SUMMARY:Daily five — AVM\, cavernoma & spontaneous ICH
+DESCRIPTION:Week 38\, day 7 — AVM\, cavernoma & spontaneous ICH.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w39d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270426T070000
+DTEND;TZID=Asia/Riyadh:20270426T072000
+SUMMARY:Daily five — Paediatric & functional neurosurgery
+DESCRIPTION:Week 39\, day 1 — Paediatric & functional neurosurgery.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w39d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270427T070000
+DTEND;TZID=Asia/Riyadh:20270427T072000
+SUMMARY:Daily five — Paediatric & functional neurosurgery
+DESCRIPTION:Week 39\, day 2 — Paediatric & functional neurosurgery.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w39d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270428T070000
+DTEND;TZID=Asia/Riyadh:20270428T072000
+SUMMARY:Daily five — Paediatric & functional neurosurgery
+DESCRIPTION:Week 39\, day 3 — Paediatric & functional neurosurgery.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w39d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270429T070000
+DTEND;TZID=Asia/Riyadh:20270429T072000
+SUMMARY:Daily five — Paediatric & functional neurosurgery
+DESCRIPTION:Week 39\, day 4 — Paediatric & functional neurosurgery.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w39d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270430T070000
+DTEND;TZID=Asia/Riyadh:20270430T072000
+SUMMARY:Daily five — Paediatric & functional neurosurgery
+DESCRIPTION:Week 39\, day 5 — Paediatric & functional neurosurgery.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w39d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270501T070000
+DTEND;TZID=Asia/Riyadh:20270501T072000
+SUMMARY:Daily five — Paediatric & functional neurosurgery
+DESCRIPTION:Week 39\, day 6 — Paediatric & functional neurosurgery.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w39d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270502T070000
+DTEND;TZID=Asia/Riyadh:20270502T072000
+SUMMARY:Daily five — Paediatric & functional neurosurgery
+DESCRIPTION:Week 39\, day 7 — Paediatric & functional neurosurgery.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w40d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270503T070000
+DTEND;TZID=Asia/Riyadh:20270503T072000
+SUMMARY:Daily five — Fluid compartments & resuscitation
+DESCRIPTION:Week 40\, day 1 — Fluid compartments & resuscitation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w40d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270504T070000
+DTEND;TZID=Asia/Riyadh:20270504T072000
+SUMMARY:Daily five — Fluid compartments & resuscitation
+DESCRIPTION:Week 40\, day 2 — Fluid compartments & resuscitation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w40d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270505T070000
+DTEND;TZID=Asia/Riyadh:20270505T072000
+SUMMARY:Daily five — Fluid compartments & resuscitation
+DESCRIPTION:Week 40\, day 3 — Fluid compartments & resuscitation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w40d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270506T070000
+DTEND;TZID=Asia/Riyadh:20270506T072000
+SUMMARY:Daily five — Fluid compartments & resuscitation
+DESCRIPTION:Week 40\, day 4 — Fluid compartments & resuscitation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w40d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270507T070000
+DTEND;TZID=Asia/Riyadh:20270507T072000
+SUMMARY:Daily five — Fluid compartments & resuscitation
+DESCRIPTION:Week 40\, day 5 — Fluid compartments & resuscitation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w40d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270508T070000
+DTEND;TZID=Asia/Riyadh:20270508T072000
+SUMMARY:Daily five — Fluid compartments & resuscitation
+DESCRIPTION:Week 40\, day 6 — Fluid compartments & resuscitation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w40d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270509T070000
+DTEND;TZID=Asia/Riyadh:20270509T072000
+SUMMARY:Daily five — Fluid compartments & resuscitation
+DESCRIPTION:Week 40\, day 7 — Fluid compartments & resuscitation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w41d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270510T070000
+DTEND;TZID=Asia/Riyadh:20270510T072000
+SUMMARY:Daily five — Sodium disorders — SIADH\, CSW & diabetes insipi
+ dus
+DESCRIPTION:Week 41\, day 1 — Sodium disorders — SIADH\, CSW & diabet
+ es insipidus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w41d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270511T070000
+DTEND;TZID=Asia/Riyadh:20270511T072000
+SUMMARY:Daily five — Sodium disorders — SIADH\, CSW & diabetes insipi
+ dus
+DESCRIPTION:Week 41\, day 2 — Sodium disorders — SIADH\, CSW & diabet
+ es insipidus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w41d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270512T070000
+DTEND;TZID=Asia/Riyadh:20270512T072000
+SUMMARY:Daily five — Sodium disorders — SIADH\, CSW & diabetes insipi
+ dus
+DESCRIPTION:Week 41\, day 3 — Sodium disorders — SIADH\, CSW & diabet
+ es insipidus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w41d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270513T070000
+DTEND;TZID=Asia/Riyadh:20270513T072000
+SUMMARY:Daily five — Sodium disorders — SIADH\, CSW & diabetes insipi
+ dus
+DESCRIPTION:Week 41\, day 4 — Sodium disorders — SIADH\, CSW & diabet
+ es insipidus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w41d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270514T070000
+DTEND;TZID=Asia/Riyadh:20270514T072000
+SUMMARY:Daily five — Sodium disorders — SIADH\, CSW & diabetes insipi
+ dus
+DESCRIPTION:Week 41\, day 5 — Sodium disorders — SIADH\, CSW & diabet
+ es insipidus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w41d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270515T070000
+DTEND;TZID=Asia/Riyadh:20270515T072000
+SUMMARY:Daily five — Sodium disorders — SIADH\, CSW & diabetes insipi
+ dus
+DESCRIPTION:Week 41\, day 6 — Sodium disorders — SIADH\, CSW & diabet
+ es insipidus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w41d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270516T070000
+DTEND;TZID=Asia/Riyadh:20270516T072000
+SUMMARY:Daily five — Sodium disorders — SIADH\, CSW & diabetes insipi
+ dus
+DESCRIPTION:Week 41\, day 7 — Sodium disorders — SIADH\, CSW & diabet
+ es insipidus.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w42d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270517T070000
+DTEND;TZID=Asia/Riyadh:20270517T072000
+SUMMARY:Daily five — Acid–base\, potassium\, calcium & magnesium
+DESCRIPTION:Week 42\, day 1 — Acid–base\, potassium\, calcium & magne
+ sium.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w42d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270518T070000
+DTEND;TZID=Asia/Riyadh:20270518T072000
+SUMMARY:Daily five — Acid–base\, potassium\, calcium & magnesium
+DESCRIPTION:Week 42\, day 2 — Acid–base\, potassium\, calcium & magne
+ sium.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w42d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270519T070000
+DTEND;TZID=Asia/Riyadh:20270519T072000
+SUMMARY:Daily five — Acid–base\, potassium\, calcium & magnesium
+DESCRIPTION:Week 42\, day 3 — Acid–base\, potassium\, calcium & magne
+ sium.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w42d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270520T070000
+DTEND;TZID=Asia/Riyadh:20270520T072000
+SUMMARY:Daily five — Acid–base\, potassium\, calcium & magnesium
+DESCRIPTION:Week 42\, day 4 — Acid–base\, potassium\, calcium & magne
+ sium.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w42d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270521T070000
+DTEND;TZID=Asia/Riyadh:20270521T072000
+SUMMARY:Daily five — Acid–base\, potassium\, calcium & magnesium
+DESCRIPTION:Week 42\, day 5 — Acid–base\, potassium\, calcium & magne
+ sium.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w42d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270522T070000
+DTEND;TZID=Asia/Riyadh:20270522T072000
+SUMMARY:Daily five — Acid–base\, potassium\, calcium & magnesium
+DESCRIPTION:Week 42\, day 6 — Acid–base\, potassium\, calcium & magne
+ sium.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w42d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270523T070000
+DTEND;TZID=Asia/Riyadh:20270523T072000
+SUMMARY:Daily five — Acid–base\, potassium\, calcium & magnesium
+DESCRIPTION:Week 42\, day 7 — Acid–base\, potassium\, calcium & magne
+ sium.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w43d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270524T070000
+DTEND;TZID=Asia/Riyadh:20270524T072000
+SUMMARY:Daily five — Shock\, haemostasis & transfusion
+DESCRIPTION:Week 43\, day 1 — Shock\, haemostasis & transfusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w43d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270525T070000
+DTEND;TZID=Asia/Riyadh:20270525T072000
+SUMMARY:Daily five — Shock\, haemostasis & transfusion
+DESCRIPTION:Week 43\, day 2 — Shock\, haemostasis & transfusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w43d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270526T070000
+DTEND;TZID=Asia/Riyadh:20270526T072000
+SUMMARY:Daily five — Shock\, haemostasis & transfusion
+DESCRIPTION:Week 43\, day 3 — Shock\, haemostasis & transfusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w43d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270527T070000
+DTEND;TZID=Asia/Riyadh:20270527T072000
+SUMMARY:Daily five — Shock\, haemostasis & transfusion
+DESCRIPTION:Week 43\, day 4 — Shock\, haemostasis & transfusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w43d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270528T070000
+DTEND;TZID=Asia/Riyadh:20270528T072000
+SUMMARY:Daily five — Shock\, haemostasis & transfusion
+DESCRIPTION:Week 43\, day 5 — Shock\, haemostasis & transfusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w43d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270529T070000
+DTEND;TZID=Asia/Riyadh:20270529T072000
+SUMMARY:Daily five — Shock\, haemostasis & transfusion
+DESCRIPTION:Week 43\, day 6 — Shock\, haemostasis & transfusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w43d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270530T070000
+DTEND;TZID=Asia/Riyadh:20270530T072000
+SUMMARY:Daily five — Shock\, haemostasis & transfusion
+DESCRIPTION:Week 43\, day 7 — Shock\, haemostasis & transfusion.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w44d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270531T070000
+DTEND;TZID=Asia/Riyadh:20270531T072000
+SUMMARY:Daily five — Surgical infection & antibiotic prophylaxis
+DESCRIPTION:Week 44\, day 1 — Surgical infection & antibiotic prophylax
+ is.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w44d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270601T070000
+DTEND;TZID=Asia/Riyadh:20270601T072000
+SUMMARY:Daily five — Surgical infection & antibiotic prophylaxis
+DESCRIPTION:Week 44\, day 2 — Surgical infection & antibiotic prophylax
+ is.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w44d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270602T070000
+DTEND;TZID=Asia/Riyadh:20270602T072000
+SUMMARY:Daily five — Surgical infection & antibiotic prophylaxis
+DESCRIPTION:Week 44\, day 3 — Surgical infection & antibiotic prophylax
+ is.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w44d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270603T070000
+DTEND;TZID=Asia/Riyadh:20270603T072000
+SUMMARY:Daily five — Surgical infection & antibiotic prophylaxis
+DESCRIPTION:Week 44\, day 4 — Surgical infection & antibiotic prophylax
+ is.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w44d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270604T070000
+DTEND;TZID=Asia/Riyadh:20270604T072000
+SUMMARY:Daily five — Surgical infection & antibiotic prophylaxis
+DESCRIPTION:Week 44\, day 5 — Surgical infection & antibiotic prophylax
+ is.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w44d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270605T070000
+DTEND;TZID=Asia/Riyadh:20270605T072000
+SUMMARY:Daily five — Surgical infection & antibiotic prophylaxis
+DESCRIPTION:Week 44\, day 6 — Surgical infection & antibiotic prophylax
+ is.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w44d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270606T070000
+DTEND;TZID=Asia/Riyadh:20270606T072000
+SUMMARY:Daily five — Surgical infection & antibiotic prophylaxis
+DESCRIPTION:Week 44\, day 7 — Surgical infection & antibiotic prophylax
+ is.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w45d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270607T070000
+DTEND;TZID=Asia/Riyadh:20270607T072000
+SUMMARY:Daily five — CNS infections — meningitis\, abscess\, empyema
+DESCRIPTION:Week 45\, day 1 — CNS infections — meningitis\, abscess\,
+  empyema.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w45d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270608T070000
+DTEND;TZID=Asia/Riyadh:20270608T072000
+SUMMARY:Daily five — CNS infections — meningitis\, abscess\, empyema
+DESCRIPTION:Week 45\, day 2 — CNS infections — meningitis\, abscess\,
+  empyema.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w45d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270609T070000
+DTEND;TZID=Asia/Riyadh:20270609T072000
+SUMMARY:Daily five — CNS infections — meningitis\, abscess\, empyema
+DESCRIPTION:Week 45\, day 3 — CNS infections — meningitis\, abscess\,
+  empyema.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w45d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270610T070000
+DTEND;TZID=Asia/Riyadh:20270610T072000
+SUMMARY:Daily five — CNS infections — meningitis\, abscess\, empyema
+DESCRIPTION:Week 45\, day 4 — CNS infections — meningitis\, abscess\,
+  empyema.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w45d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270611T070000
+DTEND;TZID=Asia/Riyadh:20270611T072000
+SUMMARY:Daily five — CNS infections — meningitis\, abscess\, empyema
+DESCRIPTION:Week 45\, day 5 — CNS infections — meningitis\, abscess\,
+  empyema.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w45d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270612T070000
+DTEND;TZID=Asia/Riyadh:20270612T072000
+SUMMARY:Daily five — CNS infections — meningitis\, abscess\, empyema
+DESCRIPTION:Week 45\, day 6 — CNS infections — meningitis\, abscess\,
+  empyema.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w45d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270613T070000
+DTEND;TZID=Asia/Riyadh:20270613T072000
+SUMMARY:Daily five — CNS infections — meningitis\, abscess\, empyema
+DESCRIPTION:Week 45\, day 7 — CNS infections — meningitis\, abscess\,
+  empyema.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w46d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270614T070000
+DTEND;TZID=Asia/Riyadh:20270614T072000
+SUMMARY:Daily five — Wound healing & the neurosurgical wound
+DESCRIPTION:Week 46\, day 1 — Wound healing & the neurosurgical wound.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w46d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270615T070000
+DTEND;TZID=Asia/Riyadh:20270615T072000
+SUMMARY:Daily five — Wound healing & the neurosurgical wound
+DESCRIPTION:Week 46\, day 2 — Wound healing & the neurosurgical wound.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w46d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270616T070000
+DTEND;TZID=Asia/Riyadh:20270616T072000
+SUMMARY:Daily five — Wound healing & the neurosurgical wound
+DESCRIPTION:Week 46\, day 3 — Wound healing & the neurosurgical wound.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w46d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270617T070000
+DTEND;TZID=Asia/Riyadh:20270617T072000
+SUMMARY:Daily five — Wound healing & the neurosurgical wound
+DESCRIPTION:Week 46\, day 4 — Wound healing & the neurosurgical wound.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w46d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270618T070000
+DTEND;TZID=Asia/Riyadh:20270618T072000
+SUMMARY:Daily five — Wound healing & the neurosurgical wound
+DESCRIPTION:Week 46\, day 5 — Wound healing & the neurosurgical wound.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w46d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270619T070000
+DTEND;TZID=Asia/Riyadh:20270619T072000
+SUMMARY:Daily five — Wound healing & the neurosurgical wound
+DESCRIPTION:Week 46\, day 6 — Wound healing & the neurosurgical wound.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w46d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270620T070000
+DTEND;TZID=Asia/Riyadh:20270620T072000
+SUMMARY:Daily five — Wound healing & the neurosurgical wound
+DESCRIPTION:Week 46\, day 7 — Wound healing & the neurosurgical wound.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w47d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270621T070000
+DTEND;TZID=Asia/Riyadh:20270621T072000
+SUMMARY:Daily five — Perioperative care & surgical critical care
+DESCRIPTION:Week 47\, day 1 — Perioperative care & surgical critical ca
+ re.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w47d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270622T070000
+DTEND;TZID=Asia/Riyadh:20270622T072000
+SUMMARY:Daily five — Perioperative care & surgical critical care
+DESCRIPTION:Week 47\, day 2 — Perioperative care & surgical critical ca
+ re.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w47d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270623T070000
+DTEND;TZID=Asia/Riyadh:20270623T072000
+SUMMARY:Daily five — Perioperative care & surgical critical care
+DESCRIPTION:Week 47\, day 3 — Perioperative care & surgical critical ca
+ re.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w47d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270624T070000
+DTEND;TZID=Asia/Riyadh:20270624T072000
+SUMMARY:Daily five — Perioperative care & surgical critical care
+DESCRIPTION:Week 47\, day 4 — Perioperative care & surgical critical ca
+ re.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w47d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270625T070000
+DTEND;TZID=Asia/Riyadh:20270625T072000
+SUMMARY:Daily five — Perioperative care & surgical critical care
+DESCRIPTION:Week 47\, day 5 — Perioperative care & surgical critical ca
+ re.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w47d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270626T070000
+DTEND;TZID=Asia/Riyadh:20270626T072000
+SUMMARY:Daily five — Perioperative care & surgical critical care
+DESCRIPTION:Week 47\, day 6 — Perioperative care & surgical critical ca
+ re.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w47d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270627T070000
+DTEND;TZID=Asia/Riyadh:20270627T072000
+SUMMARY:Daily five — Perioperative care & surgical critical care
+DESCRIPTION:Week 47\, day 7 — Perioperative care & surgical critical ca
+ re.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w48d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270628T070000
+DTEND;TZID=Asia/Riyadh:20270628T072000
+SUMMARY:Daily five — Brain death & organ donation
+DESCRIPTION:Week 48\, day 1 — Brain death & organ donation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w48d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270629T070000
+DTEND;TZID=Asia/Riyadh:20270629T072000
+SUMMARY:Daily five — Brain death & organ donation
+DESCRIPTION:Week 48\, day 2 — Brain death & organ donation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w48d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270630T070000
+DTEND;TZID=Asia/Riyadh:20270630T072000
+SUMMARY:Daily five — Brain death & organ donation
+DESCRIPTION:Week 48\, day 3 — Brain death & organ donation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w48d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270701T070000
+DTEND;TZID=Asia/Riyadh:20270701T072000
+SUMMARY:Daily five — Brain death & organ donation
+DESCRIPTION:Week 48\, day 4 — Brain death & organ donation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w48d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270702T070000
+DTEND;TZID=Asia/Riyadh:20270702T072000
+SUMMARY:Daily five — Brain death & organ donation
+DESCRIPTION:Week 48\, day 5 — Brain death & organ donation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w48d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270703T070000
+DTEND;TZID=Asia/Riyadh:20270703T072000
+SUMMARY:Daily five — Brain death & organ donation
+DESCRIPTION:Week 48\, day 6 — Brain death & organ donation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w48d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270704T070000
+DTEND;TZID=Asia/Riyadh:20270704T072000
+SUMMARY:Daily five — Brain death & organ donation
+DESCRIPTION:Week 48\, day 7 — Brain death & organ donation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w49d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270705T070000
+DTEND;TZID=Asia/Riyadh:20270705T072000
+SUMMARY:Daily five — Neuropharmacology essentials
+DESCRIPTION:Week 49\, day 1 — Neuropharmacology essentials.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w49d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270706T070000
+DTEND;TZID=Asia/Riyadh:20270706T072000
+SUMMARY:Daily five — Neuropharmacology essentials
+DESCRIPTION:Week 49\, day 2 — Neuropharmacology essentials.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w49d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270707T070000
+DTEND;TZID=Asia/Riyadh:20270707T072000
+SUMMARY:Daily five — Neuropharmacology essentials
+DESCRIPTION:Week 49\, day 3 — Neuropharmacology essentials.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w49d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270708T070000
+DTEND;TZID=Asia/Riyadh:20270708T072000
+SUMMARY:Daily five — Neuropharmacology essentials
+DESCRIPTION:Week 49\, day 4 — Neuropharmacology essentials.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w49d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270709T070000
+DTEND;TZID=Asia/Riyadh:20270709T072000
+SUMMARY:Daily five — Neuropharmacology essentials
+DESCRIPTION:Week 49\, day 5 — Neuropharmacology essentials.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w49d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270710T070000
+DTEND;TZID=Asia/Riyadh:20270710T072000
+SUMMARY:Daily five — Neuropharmacology essentials
+DESCRIPTION:Week 49\, day 6 — Neuropharmacology essentials.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w49d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270711T070000
+DTEND;TZID=Asia/Riyadh:20270711T072000
+SUMMARY:Daily five — Neuropharmacology essentials
+DESCRIPTION:Week 49\, day 7 — Neuropharmacology essentials.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w50d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270712T070000
+DTEND;TZID=Asia/Riyadh:20270712T072000
+SUMMARY:Daily five — Neurophysiology review
+DESCRIPTION:Week 50\, day 1 — Neurophysiology review.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w50d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270713T070000
+DTEND;TZID=Asia/Riyadh:20270713T072000
+SUMMARY:Daily five — Neurophysiology review
+DESCRIPTION:Week 50\, day 2 — Neurophysiology review.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w50d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270714T070000
+DTEND;TZID=Asia/Riyadh:20270714T072000
+SUMMARY:Daily five — Neurophysiology review
+DESCRIPTION:Week 50\, day 3 — Neurophysiology review.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w50d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270715T070000
+DTEND;TZID=Asia/Riyadh:20270715T072000
+SUMMARY:Daily five — Neurophysiology review
+DESCRIPTION:Week 50\, day 4 — Neurophysiology review.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w50d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270716T070000
+DTEND;TZID=Asia/Riyadh:20270716T072000
+SUMMARY:Daily five — Neurophysiology review
+DESCRIPTION:Week 50\, day 5 — Neurophysiology review.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w50d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270717T070000
+DTEND;TZID=Asia/Riyadh:20270717T072000
+SUMMARY:Daily five — Neurophysiology review
+DESCRIPTION:Week 50\, day 6 — Neurophysiology review.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w50d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270718T070000
+DTEND;TZID=Asia/Riyadh:20270718T072000
+SUMMARY:Daily five — Neurophysiology review
+DESCRIPTION:Week 50\, day 7 — Neurophysiology review.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w51d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270719T070000
+DTEND;TZID=Asia/Riyadh:20270719T072000
+SUMMARY:Daily five — Exam strategy & SLE planning
+DESCRIPTION:Week 51\, day 1 — Exam strategy & SLE planning.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w51d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270720T070000
+DTEND;TZID=Asia/Riyadh:20270720T072000
+SUMMARY:Daily five — Exam strategy & SLE planning
+DESCRIPTION:Week 51\, day 2 — Exam strategy & SLE planning.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w51d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270721T070000
+DTEND;TZID=Asia/Riyadh:20270721T072000
+SUMMARY:Daily five — Exam strategy & SLE planning
+DESCRIPTION:Week 51\, day 3 — Exam strategy & SLE planning.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w51d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270722T070000
+DTEND;TZID=Asia/Riyadh:20270722T072000
+SUMMARY:Daily five — Exam strategy & SLE planning
+DESCRIPTION:Week 51\, day 4 — Exam strategy & SLE planning.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w51d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270723T070000
+DTEND;TZID=Asia/Riyadh:20270723T072000
+SUMMARY:Daily five — Exam strategy & SLE planning
+DESCRIPTION:Week 51\, day 5 — Exam strategy & SLE planning.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w51d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270724T070000
+DTEND;TZID=Asia/Riyadh:20270724T072000
+SUMMARY:Daily five — Exam strategy & SLE planning
+DESCRIPTION:Week 51\, day 6 — Exam strategy & SLE planning.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w51d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270725T070000
+DTEND;TZID=Asia/Riyadh:20270725T072000
+SUMMARY:Daily five — Exam strategy & SLE planning
+DESCRIPTION:Week 51\, day 7 — Exam strategy & SLE planning.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w52d1@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270726T070000
+DTEND;TZID=Asia/Riyadh:20270726T072000
+SUMMARY:Daily five — Portfolio assembly & consolidation
+DESCRIPTION:Week 52\, day 1 — Portfolio assembly & consolidation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w52d2@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270727T070000
+DTEND;TZID=Asia/Riyadh:20270727T072000
+SUMMARY:Daily five — Portfolio assembly & consolidation
+DESCRIPTION:Week 52\, day 2 — Portfolio assembly & consolidation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w52d3@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270728T070000
+DTEND;TZID=Asia/Riyadh:20270728T072000
+SUMMARY:Daily five — Portfolio assembly & consolidation
+DESCRIPTION:Week 52\, day 3 — Portfolio assembly & consolidation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w52d4@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270729T070000
+DTEND;TZID=Asia/Riyadh:20270729T072000
+SUMMARY:Daily five — Portfolio assembly & consolidation
+DESCRIPTION:Week 52\, day 4 — Portfolio assembly & consolidation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w52d5@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270730T070000
+DTEND;TZID=Asia/Riyadh:20270730T072000
+SUMMARY:Daily five — Portfolio assembly & consolidation
+DESCRIPTION:Week 52\, day 5 — Portfolio assembly & consolidation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w52d6@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270731T070000
+DTEND;TZID=Asia/Riyadh:20270731T072000
+SUMMARY:Daily five — Portfolio assembly & consolidation
+DESCRIPTION:Week 52\, day 6 — Portfolio assembly & consolidation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nsx-w52d7@year-plan
+DTSTAMP:20260815T014700Z
+DTSTART;TZID=Asia/Riyadh:20270801T070000
+DTEND;TZID=Asia/Riyadh:20270801T072000
+SUMMARY:Daily five — Portfolio assembly & consolidation
+DESCRIPTION:Week 52\, day 7 — Portfolio assembly & consolidation.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Daily five
+END:VALARM
+END:VEVENT
+END:VCALENDAR
